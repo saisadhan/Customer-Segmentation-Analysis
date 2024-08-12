@@ -93,8 +93,8 @@ This Customer Segmentation Analysis project is a step forward in personalizing t
 
 ## 📁 Project Structure
 
-- [`notebooks/`](notebooks/): Jupyter notebooks used for data preprocessing, clustering analysis, and visualization.
-- [`README.md`](README.md): You're reading it!
+- [`notebooks/`](https://github.com/saisadhan/Customer-Segmentation-Analysis/blob/main/Customer%20Segmentation%20Analysis.ipynb): Jupyter notebooks used for data preprocessing, clustering analysis, and visualization.
+- [`README.md`](https://github.com/saisadhan/Customer-Segmentation-Analysis/edit/main/README.md): You're reading it!
 
 ## 🤝 Contributing
 
